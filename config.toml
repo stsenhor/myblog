@@ -3,6 +3,3 @@ baseURL = "https://stsenhor.github.io/"
 languageCode = "ja"
 theme = "hugo-flex"
 title = "TBOU"
-
-[params]
-color = "black"
