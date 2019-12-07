@@ -1,9 +1,6 @@
 ---
-title: "start"
-date: 2019-12-01T22:31:51+09:00
+title: "test"
+date: 2019-12-07T12:34:21+09:00
 draft: false
-tags: test
-categories: test
 ---
-
-#hogehoge
+test
