@@ -2,12 +2,4 @@ author = "stsenhor"
 baseURL = "https://stsenhor.github.io/"
 languageCode = "ja"
 theme = "hugo-flex"
-title = "The birth of Ubermensch"
-
-[params]
-logo = "/images/logo.jpg"
-
-
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+title = "TBOU"
