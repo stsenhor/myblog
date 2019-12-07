@@ -2,7 +2,7 @@ author = "stsenhor"
 baseURL = "https://stsenhor.github.io/"
 languageCode = "ja"
 theme = "hugo-flex"
-title = "TBOU"
+title = "The birth of Übermensch"
 
 [params]
 color = "black"
